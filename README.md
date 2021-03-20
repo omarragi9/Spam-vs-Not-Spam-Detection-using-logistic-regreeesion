@@ -16,9 +16,9 @@ This projcet splits to 4 steps:
 
 First , i load the data set -which i will leave its link down- using pandas libirary Then , i did some preorcessing that helps the model to recognize spam and not spam massages 
 
-such as remove stop words , lemmitization , stemming and lower all the words after that , i used tf-idf vectorizer to convert words into numbers that machine learning can handle 
+such as remove stop words , lemmatization  , stemming and lower all the words after that , i used tf-idf vectorizer to convert words into numbers that machine learning can handle 
 
-then , i traind the model using the logisitc regression function achieving:
+then , i traind the model using the logistic regression function achieving:
 
 Accuracy   : 0.98
 
